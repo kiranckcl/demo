@@ -6,5 +6,9 @@ This is a simple readme file
 
 Add more to readme
 Just some updates on a branch
+<<<<<<< HEAD
 making a conflict
+=======
+will change this again
+>>>>>>> very-bad
 
