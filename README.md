@@ -1,10 +1,8 @@
-# Demo project README 
+# Demo project README
 
 This is a simple readme file
 
 # Heading 2
 
 Add more to readme
-Just some updates on a branch. This file edited from Github.
-
-
+new line added
