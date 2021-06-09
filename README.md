@@ -8,4 +8,4 @@ Add more to readme
 new line added
 changes in both
 
-resolving conflict in master and feature-7
+resolving conflict in master and feature-5
