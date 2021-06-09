@@ -6,4 +6,4 @@ This is a simple readme file
 
 Add more to readme
 new line added
-changes in feature 1
+changes in both
